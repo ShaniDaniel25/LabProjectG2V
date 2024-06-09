@@ -1,0 +1,55 @@
+Strongly Connected Component 1 : {'Transcription factors'}
+Strongly Connected Component 2 : {'Arginine and proline metabolism'}
+Strongly Connected Component 3 : {'Coronavirus disease - COVID-19', 'Ribosome'}
+Strongly Connected Component 4 : {'DNA repair and recombination proteins'}
+Strongly Connected Component 5 : {'Transporters', 'ABC transporters'}
+Strongly Connected Component 6 : {'Ribosome biogenesis'}
+Strongly Connected Component 7 : {'Purine metabolism'}
+Strongly Connected Component 8 : {'Pyrimidine metabolism'}
+Strongly Connected Component 9 : {'Transfer RNA biogenesis'}
+Strongly Connected Component 10 : {'Amino acid related enzymes'}
+Strongly Connected Component 11 : {'Enzymes with EC numbers'}
+Strongly Connected Component 12 : {'Chromosome and associated proteins'}
+Strongly Connected Component 13 : {'DNA replication proteins'}
+Strongly Connected Component 14 : {'Prokaryotic defense system'}
+Strongly Connected Component 15 : {'Cysteine and methionine metabolism'}
+Strongly Connected Component 16 : {'Methane metabolism'}
+Strongly Connected Component 17 : {'Amino sugar and nucleotide sugar metabolism'}
+Strongly Connected Component 18 : {'Peptidases and inhibitors'}
+Strongly Connected Component 19 : {'Fructose and mannose metabolism'}
+Strongly Connected Component 20 : {'Pyruvate metabolism', 'Glycolysis / Gluconeogenesis', 'Propanoate metabolism', 'Carbon fixation pathways in prokaryotes', 'Pentose phosphate pathway'}
+Strongly Connected Component 21 : {'Translation factors'}
+Strongly Connected Component 22 : {'Glyoxylate and dicarboxylate metabolism'}
+Strongly Connected Component 23 : {'Butanoate metabolism'}
+Strongly Connected Component 24 : {'Glycine, serine and threonine metabolism'}
+Strongly Connected Component 25 : {'Porphyrin and chlorophyll metabolism'}
+Strongly Connected Component 26 : {'Benzoate degradation'}
+Strongly Connected Component 27 : {'Exosome'}
+Strongly Connected Component 28 : {'Two-component system', 'Protein kinases'}
+Strongly Connected Component 29 : {'Pathogenic Escherichia coli infection', 'Shigellosis', 'Salmonella infection'}
+Strongly Connected Component 30 : {'Chaperones and folding catalysts'}
+Strongly Connected Component 31 : {'Quorum sensing'}
+Strongly Connected Component 32 : {'Glycosyltransferases'}
+Strongly Connected Component 33 : {'Oxidative phosphorylation'}
+Strongly Connected Component 34 : {'Transcription machinery'}
+Strongly Connected Component 35 : {'Secretion system'}
+Strongly Connected Component 36 : {'Protein phosphatases and associated proteins'}
+Strongly Connected Component 37 : {'Nicotinate and nicotinamide metabolism'}
+Strongly Connected Component 38 : {'Glycerophospholipid metabolism'}
+Strongly Connected Component 39 : {'Messenger RNA biogenesis'}
+Strongly Connected Component 40 : {'Human papillomavirus infection'}
+Strongly Connected Component 41 : {'Bacterial motility proteins'}
+Strongly Connected Component 42 : {'Biofilm formation - Pseudomonas aeruginosa'}
+Strongly Connected Component 43 : {'Starch and sucrose metabolism'}
+Strongly Connected Component 44 : {'Lipid biosynthesis proteins'}
+Strongly Connected Component 45 : {'Sulfur metabolism'}
+Strongly Connected Component 46 : {'beta-Lactam resistance', 'Antimicrobial resistance genes'}
+Strongly Connected Component 47 : {'Lipopolysaccharide biosynthesis proteins'}
+Strongly Connected Component 48 : {'Peptidoglycan biosynthesis and degradation proteins'}
+Strongly Connected Component 49 : {'Photosynthesis proteins'}
+Strongly Connected Component 50 : {'Polyketide biosynthesis proteins'}
+Strongly Connected Component 51 : {'Biofilm formation - Vibrio cholerae'}
+Strongly Connected Component 52 : {'Ion channels'}
+Strongly Connected Component 53 : {'Viral proteins'}
+Strongly Connected Component 54 : {'Epstein-Barr virus infection'}
+Strongly Connected Component 55 : {'Cytochrome P450'}
