@@ -1,0 +1,49 @@
+{'Transcription factors', 'Quorum sensing'}
+
+{'Cysteine and methionine metabolism', 'Arginine and proline metabolism', 'Amino acid related enzymes', 
+'Porphyrin and chlorophyll metabolism', 'Transfer RNA biogenesis'}
+
+{'Ribosome', 'Coronavirus disease - COVID-19'}
+
+{'Prokaryotic defense system', 'DNA replication proteins', 'Transcription machinery', 
+'Chromosome and associated proteins', 'DNA repair and recombination proteins'}
+
+{'ABC transporters', 'Sulfur metabolism', 'Transporters'}
+
+{'Translation factors', 'Messenger RNA biogenesis', 'Ribosome biogenesis'}
+
+{'Purine metabolism', 'Nicotinate and nicotinamide metabolism', 'Pyrimidine metabolism'}
+
+{'Glycolysis / Gluconeogenesis', 'Pentose phosphate pathway', 'Methane metabolism'}
+
+{'Glycosyltransferases', 'Starch and sucrose metabolism', 
+'Fructose and mannose metabolism', 'Amino sugar and nucleotide sugar metabolism'}
+{'Peptidases and inhibitors', 'Peptidoglycan biosynthesis and degradation proteins', 
+'Chaperones and folding catalysts'}
+
+{'Benzoate degradation', 'Carbon fixation pathways in prokaryotes', 
+'Propanoate metabolism', 'Pyruvate metabolism', 'Butanoate metabolism'}
+
+{'Glycine, serine and threonine metabolism', 'Glyoxylate and dicarboxylate metabolism'}
+
+{'Protein kinases', 'Two-component system'}
+
+{'Shigellosis', 'Salmonella infection', 'Pathogenic Escherichia coli infection'}
+
+{'Oxidative phosphorylation', 'Photosynthesis proteins', 'Human papillomavirus infection'}
+
+{'Biofilm formation - Pseudomonas aeruginosa', 'Bacterial motility proteins', 
+'Secretion system', 'Lipopolysaccharide biosynthesis proteins', 'Biofilm formation - Vibrio cholerae'}
+
+{'Ion channels', 'Protein phosphatases and associated proteins'}
+
+{'Cytochrome P450', 'Polyketide biosynthesis proteins', 'Glycerophospholipid metabolism', 
+'Lipid biosynthesis proteins'}
+
+{'Antimicrobial resistance genes', 'beta-Lactam resistance'}
+
+{'Viral proteins', 'Epstein-Barr virus infection'}
+
+{'Enzymes with EC numbers'}
+
+{'Exosome'}
