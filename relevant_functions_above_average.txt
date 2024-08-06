@@ -1,0 +1,129 @@
+0 : Transcription factors
+
+1 : Arginine and proline metabolism
+
+2 : Coronavirus disease - COVID-19
+
+3 : Ribosome
+
+4 : DNA repair and recombination proteins
+
+5 : Transporters
+
+6 : Ribosome biogenesis
+
+7 : Pyrimidine metabolism
+
+8 : Amino acid related enzymes
+
+9 : Enzymes with EC numbers
+
+10 : Transfer RNA biogenesis
+
+11 : DNA replication proteins
+
+12 : Prokaryotic defense system
+
+13 : Chromosome and associated proteins
+
+14 : Cysteine and methionine metabolism
+
+15 : Methane metabolism
+
+16 : Amino sugar and nucleotide sugar metabolism
+
+17 : Peptidases and inhibitors
+
+18 : Pyruvate metabolism
+
+19 : Carbon fixation pathways in prokaryotes
+
+20 : Translation factors
+
+21 : Glyoxylate and dicarboxylate metabolism
+
+22 : Propanoate metabolism
+
+23 : Butanoate metabolism
+
+24 : Glycolysis / Gluconeogenesis
+
+25 : Glycine, serine and threonine metabolism
+
+26 : Porphyrin and chlorophyll metabolism
+
+27 : Two-component system
+
+28 : Benzoate degradation
+
+29 : Exosome
+
+30 : Chaperones and folding catalysts
+
+31 : Salmonella infection
+
+32 : Quorum sensing
+
+33 : Purine metabolism
+
+34 : Glycosyltransferases
+
+35 : Oxidative phosphorylation
+
+36 : Transcription machinery
+
+37 : Secretion system
+
+38 : Protein phosphatases and associated proteins
+
+39 : Fructose and mannose metabolism
+
+40 : Nicotinate and nicotinamide metabolism
+
+41 : Glycerophospholipid metabolism
+
+42 : Pentose phosphate pathway
+
+43 : ABC transporters
+
+44 : Messenger RNA biogenesis
+
+45 : Protein kinases
+
+46 : Human papillomavirus infection
+
+47 : Bacterial motility proteins
+
+48 : Shigellosis
+
+49 : Biofilm formation - Pseudomonas aeruginosa
+
+50 : Starch and sucrose metabolism
+
+51 : Lipid biosynthesis proteins
+
+52 : Sulfur metabolism
+
+53 : Antimicrobial resistance genes
+
+54 : Lipopolysaccharide biosynthesis proteins
+
+55 : Peptidoglycan biosynthesis and degradation proteins
+
+56 : Photosynthesis proteins
+
+57 : Polyketide biosynthesis proteins
+
+58 : Biofilm formation - Vibrio cholerae
+
+59 : beta-Lactam resistance
+
+60 : Ion channels
+
+61 : Pathogenic Escherichia coli infection
+
+62 : Viral proteins
+
+63 : Epstein-Barr virus infection
+
+64 : Cytochrome P450

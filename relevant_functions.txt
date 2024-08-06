@@ -1,0 +1,533 @@
+0 : Transcription factors
+
+1 : Arginine and proline metabolism
+
+2 : Valine, leucine and isoleucine biosynthesis
+
+3 : Pantothenate and CoA biosynthesis
+
+4 : Coronavirus disease - COVID-19
+
+5 : Ribosome
+
+6 : DNA repair and recombination proteins
+
+7 : Transporters
+
+8 : Phenylalanine, tyrosine and tryptophan biosynthesis
+
+9 : Ribosome biogenesis
+
+10 : Pyrimidine metabolism
+
+11 : Alanine, aspartate and glutamate metabolism
+
+12 : Mismatch repair
+
+13 : Amino acid related enzymes
+
+14 : Enzymes with EC numbers
+
+15 : Transfer RNA biogenesis
+
+16 : DNA replication proteins
+
+17 : Prokaryotic defense system
+
+18 : Chromosome and associated proteins
+
+19 : Cysteine and methionine metabolism
+
+20 : Methane metabolism
+
+21 : Streptomycin biosynthesis
+
+22 : Acarbose and validamycin biosynthesis
+
+23 : Polyketide sugar unit biosynthesis
+
+24 : Amino sugar and nucleotide sugar metabolism
+
+25 : Peptidases and inhibitors
+
+26 : Aminoacyl-tRNA biosynthesis
+
+27 : Pyruvate metabolism
+
+28 : Carbon fixation pathways in prokaryotes
+
+29 : Arginine biosynthesis
+
+30 : DNA replication
+
+31 : Measles
+
+32 : Apoptosis
+
+33 : Translation factors
+
+34 : Autophagy - yeast
+
+35 : Hepatitis C
+
+36 : Influenza A
+
+37 : Herpes simplex virus 1 infection
+
+38 : Histidine metabolism
+
+39 : Glyoxylate and dicarboxylate metabolism
+
+40 : Carbapenem biosynthesis
+
+41 : Sulfur relay system
+
+42 : Propanoate metabolism
+
+43 : Butanoate metabolism
+
+44 : Nitrotoluene degradation
+
+45 : Glycolysis / Gluconeogenesis
+
+46 : Terpenoid backbone biosynthesis
+
+47 : Vitamin B6 metabolism
+
+48 : Glycine, serine and threonine metabolism
+
+49 : Bacterial toxins
+
+50 : Porphyrin and chlorophyll metabolism
+
+51 : Chloroalkane and chloroalkene degradation
+
+52 : Nitrogen metabolism
+
+53 : Synthesis and degradation of ketone bodies
+
+54 : Lysine degradation
+
+55 : Fatty acid degradation
+
+56 : Two-component system
+
+57 : Valine, leucine and isoleucine degradation
+
+58 : Tryptophan metabolism
+
+59 : Benzoate degradation
+
+60 : Exosome
+
+61 : Chaperones and folding catalysts
+
+62 : Salmonella infection
+
+63 : Lysine biosynthesis
+
+64 : Quorum sensing
+
+65 : Purine metabolism
+
+66 : Selenocompound metabolism
+
+67 : Carbohydrate metabolism
+
+68 : Glycosyltransferases
+
+69 : Oxidative phosphorylation
+
+70 : O-Antigen nucleotide sugar biosynthesis
+
+71 : Transcription machinery
+
+72 : Basal transcription factors
+
+73 : Prenyltransferases
+
+74 : Peptidoglycan biosynthesis
+
+75 : Folate biosynthesis
+
+76 : Cofactor metabolism
+
+77 : Secretion system
+
+78 : Bacterial secretion system
+
+79 : Protein export
+
+80 : Transcription
+
+81 : Protein phosphatases and associated proteins
+
+82 : Proteasome
+
+83 : Fructose and mannose metabolism
+
+84 : Nicotinate and nicotinamide metabolism
+
+85 : Taurine and hypotaurine metabolism
+
+86 : Glycerophospholipid metabolism
+
+87 : Sesquiterpenoid and triterpenoid biosynthesis
+
+88 : RNA polymerase
+
+89 : One carbon pool by folate
+
+90 : Antifolate resistance
+
+91 : Pentose phosphate pathway
+
+92 : ABC transporters
+
+93 : Riboflavin metabolism
+
+94 : Ubiquinone and other terpenoid-quinone biosynthesis
+
+95 : Inositol phosphate metabolism
+
+96 : Cyanoamino acid metabolism
+
+97 : Vibrio cholerae infection
+
+98 : Cell cycle - Caulobacter
+
+99 : Replication and repair
+
+100 : Monobactam biosynthesis
+
+101 : Messenger RNA biogenesis
+
+102 : RNA degradation
+
+103 : Biosynthesis of various secondary metabolites - part 2
+
+104 : Phosphonate and phosphinate metabolism
+
+105 : Glucosinolate biosynthesis
+
+106 : C5-Branched dibasic acid metabolism
+
+107 : Protein kinases
+
+108 : Aminobenzoate degradation
+
+109 : Phenylpropanoid biosynthesis
+
+110 : Human T-cell leukemia virus 1 infection
+
+111 : Human papillomavirus infection
+
+112 : Bacterial motility proteins
+
+113 : Kaposi sarcoma-associated herpesvirus infection
+
+114 : Shigellosis
+
+115 : Retinol metabolism
+
+116 : Tuberculosis
+
+117 : Biofilm formation - Pseudomonas aeruginosa
+
+118 : Starch and sucrose metabolism
+
+119 : Nucleotide excision repair
+
+120 : Transport
+
+121 : Epithelial cell signaling in Helicobacter pylori infection
+
+122 : Steroid degradation
+
+123 : Non-homologous end-joining
+
+124 : Base excision repair
+
+125 : Lipid biosynthesis proteins
+
+126 : Staphylococcus aureus infection
+
+127 : Bacterial chemotaxis
+
+128 : Other glycan degradation
+
+129 : Phenylalanine metabolism
+
+130 : Novobiocin biosynthesis
+
+131 : N-Glycan biosynthesis
+
+132 : Thiamine metabolism
+
+133 : Sulfur metabolism
+
+134 : Isoquinoline alkaloid biosynthesis
+
+135 : Tropane, piperidine and pyridine alkaloid biosynthesis
+
+136 : Tyrosine metabolism
+
+137 : Other types of O-glycan biosynthesis
+
+138 : Galactose metabolism
+
+139 : Bacterial invasion of epithelial cells
+
+140 : Yersinia infection
+
+141 : Glycerolipid metabolism
+
+142 : Insect hormone biosynthesis
+
+143 : Limonene and pinene degradation
+
+144 : Ascorbate and aldarate metabolism
+
+145 : beta-Alanine metabolism
+
+146 : Biotin metabolism
+
+147 : Fatty acid biosynthesis
+
+148 : Flagellar assembly
+
+149 : Protein processing
+
+150 : Carbon fixation in photosynthetic organisms
+
+151 : Antimicrobial resistance genes
+
+152 : Lipopolysaccharide biosynthesis
+
+153 : Lipopolysaccharide biosynthesis proteins
+
+154 : Legionellosis
+
+155 : Glycan metabolism
+
+156 : D-Alanine metabolism
+
+157 : Vancomycin resistance
+
+158 : Peptidoglycan biosynthesis and degradation proteins
+
+159 : Glutathione metabolism
+
+160 : Photosynthesis proteins
+
+161 : Photosynthesis
+
+162 : Homologous recombination
+
+163 : Polyketide biosynthesis proteins
+
+164 : Lipoic acid metabolism
+
+165 : Biosynthesis of various secondary metabolites - part 3
+
+166 : Pentose and glucuronate interconversions
+
+167 : Biosynthesis of vancomycin group antibiotics
+
+168 : Arabinogalactan biosynthesis - Mycobacterium
+
+169 : D-Glutamine and D-glutamate metabolism
+
+170 : Biofilm formation - Vibrio cholerae
+
+171 : Secondary metabolism
+
+172 : Biosynthesis of type II polyketide products
+
+173 : Prodigiosin biosynthesis
+
+174 : Penicillin and cephalosporin biosynthesis
+
+175 : beta-Lactam resistance
+
+176 : Phenazine biosynthesis
+
+177 : Platinum drug resistance
+
+178 : Photosynthesis - antenna proteins
+
+179 : Carotenoid biosynthesis
+
+180 : Mannose type O-glycan biosynthesis
+
+181 : EGFR tyrosine kinase inhibitor resistance
+
+182 : Atrazine degradation
+
+183 : Neomycin, kanamycin and gentamicin biosynthesis
+
+184 : Furfural degradation
+
+185 : Amino acid metabolism
+
+186 : Regulation of actin cytoskeleton
+
+187 : Cell adhesion molecules
+
+188 : Translation
+
+189 : Ion channels
+
+190 : Steroid biosynthesis
+
+191 : Biofilm formation - Escherichia coli
+
+192 : Arachidonic acid metabolism
+
+193 : Sphingolipid metabolism
+
+194 : Glycosphingolipid biosynthesis - globo and isoglobo series
+
+195 : Glycosaminoglycan degradation
+
+196 : Biosynthesis of unsaturated fatty acids
+
+197 : Biosynthesis of siderophore group nonribosomal peptides
+
+198 : Unclassified viral proteins
+
+199 : Dioxin degradation
+
+200 : Xylene degradation
+
+201 : Type I polyketide structures
+
+202 : Chlorocyclohexane and chlorobenzene degradation
+
+203 : Fluorobenzoate degradation
+
+204 : Toluene degradation
+
+205 : Pertussis
+
+206 : Plant-pathogen interaction
+
+207 : Pathogenic Escherichia coli infection
+
+208 : Zeatin biosynthesis
+
+209 : Glycosphingolipid biosynthesis - ganglio series
+
+210 : Various types of N-glycan biosynthesis
+
+211 : Secondary bile acid biosynthesis
+
+212 : Polycyclic aromatic hydrocarbon degradation
+
+213 : Naphthalene degradation
+
+214 : Biosynthesis of enediyne antibiotics
+
+215 : Caprolactam degradation
+
+216 : O-Antigen repeat unit biosynthesis
+
+217 : Nucleotide metabolism
+
+218 : Styrene degradation
+
+219 : Domain-containing proteins not elsewhere classified
+
+220 : Viral proteins
+
+221 : Biosynthesis of ansamycins
+
+222 : Primary bile acid biosynthesis
+
+223 : Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+
+224 : Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+
+225 : Isoflavonoid biosynthesis
+
+226 : Stilbenoid, diarylheptanoid and gingerol biosynthesis
+
+227 : Flavonoid biosynthesis
+
+228 : Ether lipid metabolism
+
+229 : D-Arginine and D-ornithine metabolism
+
+230 : Mucin type O-glycan biosynthesis
+
+231 : Linoleic acid metabolism
+
+232 : alpha-Linolenic acid metabolism
+
+233 : Ethylbenzene degradation
+
+234 : Geraniol degradation
+
+235 : Lipid metabolism
+
+236 : Human cytomegalovirus infection
+
+237 : Epstein-Barr virus infection
+
+238 : Human immunodeficiency virus 1 infection
+
+239 : Hepatitis B
+
+240 : Monoterpenoid biosynthesis
+
+241 : Cytochrome P450
+
+242 : Steroid hormone biosynthesis
+
+243 : Cell cycle
+
+244 : GTP-binding proteins
+
+245 : Endocrine resistance
+
+246 : Biosynthesis of various secondary metabolites - part 1
+
+247 : G protein-coupled receptors
+
+248 : Cutin, suberine and wax biosynthesis
+
+249 : Diterpenoid biosynthesis
+
+250 : Fatty acid elongation
+
+251 : Aflatoxin biosynthesis
+
+252 : Clavulanic acid biosynthesis
+
+253 : Caffeine metabolism
+
+254 : Tetracycline biosynthesis
+
+255 : Biosynthesis of 12-, 14- and 16-membered macrolides
+
+256 : Biosynthesis of type II polyketide backbone
+
+257 : Cytokines and growth factors
+
+258 : Nonribosomal peptide structures
+
+259 : Betalain biosynthesis
+
+260 : Glycosaminoglycan biosynthesis - keratan sulfate
+
+261 : Bisphenol degradation
+
+262 : Staurosporine biosynthesis
+
+263 : Glycosphingolipid biosynthesis - lacto and neolacto series
+
+264 : Indole alkaloid biosynthesis
+
+265 : Viral fusion proteins
+
+266 : Indole diterpene alkaloid biosynthesis
